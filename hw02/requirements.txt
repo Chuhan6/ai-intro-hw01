@@ -1,0 +1,4 @@
+# DeepSeek API调用依赖
+openai>=1.0.0
+# 网络请求依赖
+requests>=2.31.0
