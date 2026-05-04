@@ -1,0 +1,10 @@
+data/chest_xray/
+├── train/
+│   ├── NORMAL/
+│   └── PNEUMONIA/
+├── test/
+│   ├── NORMAL/
+│   └── PNEUMONIA/
+└── val/
+    ├── NORMAL/
+    └── PNEUMONIA/
